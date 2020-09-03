@@ -1,1 +1,1 @@
-# A very simple account registration and login system written in python
+# A user registration and login system written in python
